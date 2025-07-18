@@ -18,3 +18,10 @@ docker build -t docker_nexustechneo .
 ```
 docker run -d -p 8080:80 docker_nexustechneo
 ```
+
+
+
+### Access the static webpage
+```
+http://localhost:8080/
+```
