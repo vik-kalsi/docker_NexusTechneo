@@ -2,7 +2,7 @@
 
 ### Build Docker Image
 ```
-docker build -t docker_NexusTechneo
+docker build -t docker_nexustechneo .
 ```
 
 
