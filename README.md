@@ -1,5 +1,13 @@
 <h3>Accessing Static Web Page using Docker with Nginx</h3>
 
+
+
+### Git clone this repo to your location
+```
+git clone https://github.com/vik-kalsi/docker_NexusTechneo.git
+```
+
+
 ### Build Docker Image
 ```
 docker build -t docker_nexustechneo .
